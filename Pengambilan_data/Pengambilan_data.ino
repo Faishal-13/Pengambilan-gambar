@@ -153,4 +153,3 @@ void loop() {
   // Do nothing. Everything is done in another task by the web server
   delay(10000);
 }
-//http://192.168.0.104
